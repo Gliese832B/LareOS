@@ -1,0 +1,10 @@
+arm_64bit=1
+kernel=kernel8.img
+disable_commandline_tags=1
+enable_uart=1
+gpu_mem=64
+core_freq=250
+boot_delay=0
+disable_splash=1
+dtoverlay=disable-bt
+init_uart_baud=115200
