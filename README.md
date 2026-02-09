@@ -84,5 +84,5 @@ MIT License.
 
 ---
 > **Note:** Still not completed.
-> ## To-Do
-> Complete the IRQ.
+## To-Do
+Complete the IRQ.
